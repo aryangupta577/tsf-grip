@@ -1,0 +1,54 @@
+
+nav{
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,123,255, 0.2), 0 6px 20px 0 rgba(0,123,255, 0.19);
+    font-family: 'Playfair Display', serif !important;
+  }
+.bg{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(174, 174, 192, 0.2), 0 6px 20px 0 rgba(174, 174, 192, 0.2);
+    border-radius: 10px;
+    margin-bottom: 60px;
+}
+.btn-primary{
+    box-shadow: 0 4px 8px 0 rgba(0,123,255, 0.2), 0 6px 20px 0 rgba(0,123,255, 0.19);
+      text-align: center;
+    }
+    table{
+        margin-top: 10px;
+    }
+    input{
+        margin-left: 20px;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        box-shadow: 0 4px 8px 0 rgba(220, 220, 226, 0.2), 0 6px 20px 0 rgba(217, 217, 224, 0.2);
+
+
+        border-bottom-color:  rgb(0,123,255);
+        /* border-bottom-width: 1px; */
+        border-radius: 10px;
+        width: 240px;
+    font-family: 'Playfair Display', serif !important;
+        
+        font-size: 20px;
+        font-weight:500;
+      }
+      label{
+       color: rgb(78, 78, 78);
+    font-family: 'Playfair Display', serif !important;
+        
+        font-size: 20px;
+        font-weight:500;
+      }
+      h2{
+       color: rgb(78, 78, 78);
+    font-family: 'Playfair Display', serif !important;
+
+      }
+      input:focus, textarea:focus, select:focus{
+        outline: none;
+    }
